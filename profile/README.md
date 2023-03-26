@@ -6,4 +6,4 @@ Our app allows users to create their stickers-nft in various l2 networks. The st
 All created NFTs stay in the user's wallet. Our fridge is just an exhibition of these creations. 
 
 Our app is designed and drawn by our designers using Figma. The contracts were created on Solidity in partner networks: Taiko, Gnosis, and Optimism.
-The front end is implemented using JavaScript. 
+The front end is implemented using JavaScript and FVM.
